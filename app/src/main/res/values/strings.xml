@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android範例</string>
+    <string name="android">第一個Android應用程式</string>
+    <string name="cm">身高(cm):</string>
+</resources>
